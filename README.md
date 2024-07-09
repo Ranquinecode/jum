@@ -1,4 +1,2 @@
-# que bosta de nome.
-testamdp
-ok
-pk
+# Vou melhorar essas versões
+Este é o meu terceiro commit. Estou aprendendo. Preciso agora decorar.
